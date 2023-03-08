@@ -1,4 +1,4 @@
-# JavaCode_MinAndMax_algorithm
+# 자바로 구현하는 최댓값, 최솟값
 
 1. 최댓값 코드 (Max Java Code)
 2. 최솟값 코드 (Min Java Code)
