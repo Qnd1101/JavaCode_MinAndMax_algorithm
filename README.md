@@ -1,1 +1,1 @@
-# JavaCode_MinAndMax_-algorithm
+# JavaCode_MinAndMax_algorithm
