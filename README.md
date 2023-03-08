@@ -42,7 +42,7 @@ public class MaxMethod {
 ## 코드 결과
 ![image](https://user-images.githubusercontent.com/107795830/223637478-1c3d473f-38f0-4c49-b8a6-7004c85f4d2a.png)
 
-## Min
+## Min Java Code
 ```java
 package sungil2023_03_algo;
 
