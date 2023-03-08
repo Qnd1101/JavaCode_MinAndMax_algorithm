@@ -39,7 +39,33 @@ public class MaxMethod {
 	}
 }
 ```
-## 
+## 코드 결과
 ![image](https://user-images.githubusercontent.com/107795830/223637478-1c3d473f-38f0-4c49-b8a6-7004c85f4d2a.png)
 
 ## Min
+```java
+package sungil2023_03_algo;
+
+public class MinMethod {
+
+	public static int Min(int a, int b, int c) {
+		
+		int min = a;
+		
+		if(b < min) min = b;
+		if(c < min) min = c;
+		
+		return min;
+		
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("[10, 9, 8] : " + Min(10, 9, 8));
+		System.out.println("[4, 5, 2] : " + Min(4, 5, 2));
+	}
+}
+```
+
+## 코드 결과
+![image](https://user-images.githubusercontent.com/107795830/223638136-ce00c6c0-1421-456d-9d70-9c38eff767a2.png)
+
